@@ -9,6 +9,7 @@ Este repositório foi configurado especificamente para garantir a **rastreabilid
 * **Main Branch:** Contém apenas a versão "limpa" e aprovada do documento.
 * **Pull Requests:** Todas as edições passam por uma fase de revisão antes de serem integradas.
 * **Documentação:** O ficheiro principal está localizado em `/2026-PLANONEGOCIO-CULTURALMENT.md`.
+  PULL REQUEST SEMPRE!
 
 ### Autores:
 * [Mauro Mahassa](github.com/mauroreis100)
