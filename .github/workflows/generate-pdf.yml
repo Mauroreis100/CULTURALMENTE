@@ -1,0 +1,29 @@
+name: Gerar PDF do Projecto
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  convert_to_pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Gerar PDF via Pandoc
+        uses: docker://pandoc/latex:latest
+        with:
+          args: >-
+            --standalone
+            --output=docs/Trabalho_Final.pdf
+            2026-PLANONEGOCIO-CULTURALMENTE.md
+
+      - name: Upload do PDF como Artefacto
+        uses: actions/upload-artifact@v4
+        with:
+          name: Versão-Final-PDF
+          path: docs/Trabalho_Final.pdf
