@@ -24,6 +24,9 @@ Este repositório foi configurado especificamente para garantir a **rastreabilid
 * [Data] - Entrega Final
 
 # REGRAS DE COMMITS
+
+Evite fazer 50 alterações e confirmar as alterações apenas uma vez com a mensagem "documento atualizado". Em vez disso, confirme as alterações sempre que terminar uma secção específica.
+
 A rastreabilidade significa saber porquê algo mudou. Usa este padrão de mensagens:
     
     Add: Quando inseres uma nova secção (ex: Add: Introdução e Metodologia).
