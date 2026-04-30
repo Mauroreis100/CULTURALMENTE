@@ -1,8 +1,10 @@
 
-# Título do Projeto: CULTURALMENTE
+# CULTURALMENTE
 ## Cadeira: Gestão de Projectos
 
 ### Visão Geral
+<img width="1920" height="630" alt="image" src="https://github.com/user-attachments/assets/481ad3c9-1ed0-48c4-bc9a-ac86716176fd" />
+
 Este repositório foi configurado especificamente para garantir a **rastreabilidade** de todas as alterações feitas no documento de PLANO DE NEGÓCIO. O histórico de commits e pull requests demonstra a evolução do trabalho e o cumprimento das orientações dadas em aula.
 
 ### Estrutura de Trabalho
