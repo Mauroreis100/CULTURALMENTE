@@ -19,8 +19,8 @@ jobs:
         with:
           args: >-
             --standalone
-            --output=docs/PLANONEGOCIO-LECC51-2026.pdf
-            /2026-PLANONEGOCIO-CULTURALMENTE.md
+            --output=docs/Trabalho_Final.pdf
+            2026-PLANONEGOCIO-CULTURALMENTE.md
 
       - name: Upload do PDF como Artefacto
         uses: actions/upload-artifact@v4
