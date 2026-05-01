@@ -105,10 +105,10 @@
 
 ## 01. Sumário Executivo
 
-### 1.1 Apresentação do negócio
-O presente negócio visa a resolver o problema de divulgação da agenda cultural de Moçambique, muitas vezes queremos fazer actividades recreativas, participar de festas, workshops, concertos, assistir a torneios e shows mas a falta de centralização desses eventos torna a pesquisa uma tarefa difícil.
-Daí surge a CULTURAMENTE que especializa em promoção de eventos e criar o intermédio entre eventos, focada em dinamizar o mercado cultural e social de Moçambique. O nosso objetivo central é solucionar a fragmentação da informação, servindo como o ponto de encontro único entre organizadores de eventos e o público interessado.
+É um marketplace online de dois lados (plataforma intermediária) que conecta clientes a prestadores de serviços locais (biscateiros) para tarefas domésticas, como montagem de móveis, limpeza e mudanças. A receita é gerada por comissões sobre serviços e taxas de confiança, focando em conveniência e segurança. 
 
+### 1.1 Apresentação do negócio
+    O negócio visa conectar e trazer as pessoas mais perto, promovendo senso de comunidade em Moçambique. Precisa de uma cozinheira para o social de um dia? Precisa de um ajudante para limpar a piscina? Quem vai varrer o quintal depois desta ventania? Há verdade é uma, há sempre alguém disponível para ajudar. Quando se juntamos oferecemos ambos uma nova forma de viver. E o negócio foca-se em criar uma solução que permite fazer esse intermédio.
 
 ### 1.2 Identificação da empresa
 
